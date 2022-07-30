@@ -1,0 +1,10 @@
+spring:
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true
+  security:
+    user:
+      name: user
+      password: 1111
